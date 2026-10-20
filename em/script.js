@@ -69,13 +69,12 @@ const ROSE_PALETTES = {
  * Friendly, cheerful, non-cheesy 20/10 wishes displayed when roses bloom
  */
 const WHISPER_NOTES = [
-  'Gặp em là điều đẹp nhất mà anh có được.',
+  'Love you pạc pạc ❤️',
   'Cảm ơn em vì luôn ở bên, vì mỗi nụ cười và cả những lúc giận dỗi dễ thương.',
-  'Em là lý do anh muốn mỗi ngày đều thật tốt đẹp.',
-  'Một bông hoa dành cho người anh yêu nhất. Chúc em 20/10 thật vui nhé!',
-  'Mong em luôn hạnh phúc, rạng rỡ và biết rằng anh luôn ở đây.',
-  'Em làm cuộc sống này dịu dàng hơn rất nhiều.',
-  'Anh yêu em — hôm nay, ngày mai và mãi về sau.'
+  'Mong em luôn hạnh phúc, rạng rỡ nhớ',
+  'Em làm anh thay đổi để trở lên tốt hơn lắm á.',
+  'Anh yêu em chu ca mo.',
+  'God bless you ❤️'
 ];
 
 /**
