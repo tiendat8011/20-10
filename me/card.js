@@ -4,8 +4,8 @@
   const STORAGE_KEY = 'flower.greeting.20-10.me.v1';
   const defaultGreeting = {
     recipient: 'Mẹ',
-    message: 'Nhân ngày Phụ nữ Việt Nam 20/10, con muốn gửi đến mẹ thật nhiều yêu thương.\n\nCảm ơn mẹ đã luôn ở bên con, lo lắng và chăm sóc cho con từng ngày. Có những lúc con chưa nói ra được, nhưng con luôn biết ơn và thương mẹ rất nhiều.\n\nMong mẹ luôn khỏe mạnh, bình an và hạnh phúc. Mẹ hãy luôn dành thời gian cho bản thân mình nữa nhé.',
-    sender: 'Con của mẹ'
+    message: 'Nhân ngày Phụ nữ Việt Nam 20/10, con chúc mẹ yêu không chỉ ngày ngày và cả những ngày khác thật nhiều sức khoẻ, không muộn phiền lo toan để bọn con có thể yêu thương mẹ nhiều hơn ạ.\n\nCảm ơn mẹ đã luôn ở bên con, lo lắng và chăm sóc cho con từng ngày ạ. Con yêu mẹ nhiều lắm ạ.',
+    sender: 'Con trai kim cương của mẹ'
   };
   const dialog = document.getElementById('greetingCard');
   const openButton = document.getElementById('openCard');
